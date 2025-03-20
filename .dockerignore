@@ -1,0 +1,21 @@
+# Byte-compiled / compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+myenv/
+
+# Dependency and package files
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Environment variables
+.env
+
+# Docker-related files
+docker-compose.override.yml
+*.log
